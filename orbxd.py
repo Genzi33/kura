@@ -89,7 +89,7 @@ tgl = ("%s %s %s"%(ha, op, ta))
 bulan_ttl = {"01": "January", "02": "February", "03": "March", "04": "April", "05": "May", "06": "June", "07": "July", "08": "August", "09": "September", "10": "October", "11": "November", "12": "December"}
 
 banner = ("""\033[1;37m
-       \033[1;91m  _______________  \033[1;37m
+       \033[1;91m  ______________  \033[1;37m
        \033[1;91m | BMBF   GENZ | \033[1;37m 
        \033[1;91m | BMBF.  GENZ | \033[1;37m 
        \033[1;91m | BMBF   GENZ | \033[1;37m \033[1;36m \033[1;32mGENZ\033[1;37m

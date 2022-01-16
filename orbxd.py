@@ -89,11 +89,12 @@ tgl = ("%s %s %s"%(ha, op, ta))
 bulan_ttl = {"01": "January", "02": "February", "03": "March", "04": "April", "05": "May", "06": "June", "07": "July", "08": "August", "09": "September", "10": "October", "11": "November", "12": "December"}
 
 banner = ("""\033[1;37m
-________ \033[1;91m  ________  \033[1;37m  ________  
-|            l \033[1;91m |             l \033[1;37m |.             l
-|     G    l \033[1;91m l     E      l \033[1;37m l. N.   Z   l
-|            l \033[1;91m l             l \033[1;37m l              l< Au \033[1;36m• \033[1;32mDekura-X.\033[1;37m
-|_______l \033[1;91m l_______ l \033[1;37m  |________l   \n
+       \033[1;91m  _______________  \033[1;37m
+       \033[1;91m | BMBF   GENZ l \033[1;37m 
+       \033[1;91m l BMBF.   GENZ l \033[1;37m 
+       \033[1;91m l  BMBF  GENZ l \033[1;37m \033[1;36m• \033[1;32mDekura-X.\033[1;37m
+       \033[1;91m l  BMBF.  GENZ l \033[1;37m  \n
+       \033[1;91m l_______________l 
   \033[1;33m•\033[1;91m•\033[1;37m New Tools Hack Facebook Random \033[1;33m•\033[1;91m•\033[1;37m
  \033[1;33m•\033[1;91m•\033[1;37m Gunakan Akun Tumbal Untuk Login! \033[1;33m•\033[1;91m•\033[1;37m""")
 

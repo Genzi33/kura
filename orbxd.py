@@ -90,11 +90,11 @@ bulan_ttl = {"01": "January", "02": "February", "03": "March", "04": "April", "0
 
 banner = ("""\033[1;37m
        \033[1;91m  _______________  \033[1;37m
-       \033[1;91m | BMBF   GENZ l \033[1;37m 
-       \033[1;91m l BMBF.   GENZ l \033[1;37m 
-       \033[1;91m l  BMBF  GENZ l \033[1;37m \033[1;36m• \033[1;32mDekura-X.\033[1;37m
-       \033[1;91m l  BMBF.  GENZ l \033[1;37m  \n
-       \033[1;91m l_______________l 
+       \033[1;91m | BMBF   GENZ | \033[1;37m 
+       \033[1;91m | BMBF.   GENZ | \033[1;37m 
+       \033[1;91m | BMBF   GENZ | \033[1;37m \033[1;36m• \033[1;32mDekura-X.\033[1;37m
+       \033[1;91m | BMBF.   GENZ | \033[1;37m  \n
+       \033[1;91m |_______________| 
   \033[1;33m•\033[1;91m•\033[1;37m New Tools Hack Facebook Random \033[1;33m•\033[1;91m•\033[1;37m
  \033[1;33m•\033[1;91m•\033[1;37m Gunakan Akun Tumbal Untuk Login! \033[1;33m•\033[1;91m•\033[1;37m""")
 
